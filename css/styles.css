@@ -139,6 +139,6 @@ ul {
 button {
   background-color: #f5f4fa;
 }
-.first-button {
+button:hover {
   background-color: #2196f3;
 }
